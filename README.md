@@ -85,7 +85,7 @@ endmodule
 ![comb1time](https://user-images.githubusercontent.com/94154780/192535527-b1fd04f4-431e-4df6-ac3e-389271170dfe.jpg)
 
 ## Truthtable:
-![github.logo](tt1.png)
+![github.logo](tt1.jpeg)
 
 
 ## RTL realization:
@@ -95,7 +95,7 @@ endmodule
 ![github.logo](comb2.jpeg)
 
 ## Truthtable:
-![github.logo](tt2.png)
+![github.logo](tt2.jpeg)
 
 
 ## Result:
