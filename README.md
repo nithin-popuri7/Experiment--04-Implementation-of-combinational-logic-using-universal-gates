@@ -28,12 +28,11 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 ## Logic Diagram
 ## Procedure
+
 ## Program:
-```
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
 Developed by:P.Siva Naga Nithin. 
 RegisterNumber:212221240037.
-```
 ## Combination
 ```
 module Exp4(a,b,c,d,f);
