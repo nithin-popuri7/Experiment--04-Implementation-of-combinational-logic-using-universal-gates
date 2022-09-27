@@ -63,7 +63,8 @@ endmodule
 ![github.logo](e4.png)
 
 ## Timing Diagram:
-![github.logo](comb1time.jpeg)
+![comb1time](https://user-images.githubusercontent.com/94154780/192535527-b1fd04f4-431e-4df6-ac3e-389271170dfe.jpg)
+
 
 ## RTL realization:
 ![github.logo](e4.1.png)
